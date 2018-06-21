@@ -3,7 +3,11 @@ Just a place to dump useful seq2seq resources I've come across
 
 ## Papers
 
+#### [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), arXiv:1406.1078, EMNLP 2014
+
 #### [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) arXiv:1409.3215, NIPS 2014
+
+#### [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) arXiv:1506.05869, 2015
 
 #### [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211) arXiv:1508.01211, ICASSP 2016
 
