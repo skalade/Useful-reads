@@ -7,6 +7,8 @@ Just a place to dump useful seq2seq resources I've come across
 
 #### [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) arXiv:1409.3215, NIPS 2014
 
+#### [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) arXiv:1409.0473, ICLR 2015
+
 #### [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) arXiv:1506.05869, 2015
 
 #### [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211) arXiv:1508.01211, ICASSP 2016
