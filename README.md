@@ -31,6 +31,8 @@ Just a place to dump useful seq2seq resources I've come across
 
 #### [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 2015
 
+#### [Why I Use raw_rnn Instead of dynamic_rnn in Tensorflow and So Should You](https://hanxiao.github.io/2017/08/16/Why-I-use-raw-rnn-Instead-of-dynamic-rnn-in-Tensorflow-So-Should-You-0/) 2017
+
 #### [The fall of RNN/LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0) 2018
 
 ## Tutorials and code
@@ -42,6 +44,8 @@ Just a place to dump useful seq2seq resources I've come across
 ## Talks
 
 #### [Can machine learning trump theory in communication system design?](https://www.youtube.com/watch?v=7L4PHaYP6O4) by Prof Andrea Goldsmith in Edinburgh Uni, 2018 (actually attended this one really good!)
+
+#### [Seq2Seq ICML Tutorial](https://sites.google.com/view/seq2seq-icml17) by Oriol Vinyals @OriolVinyalsML & Navdeep Jaitly @NavdeepLearning, ICML 2017
 
 #### [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=7L4PHaYP6O4) by Andrew Ng, 2016
 
