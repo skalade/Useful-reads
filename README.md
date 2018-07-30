@@ -15,6 +15,8 @@ Just a place to dump useful seq2seq resources I've come across
 
 #### [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) arXiv:1609.08144, 2016
 
+#### [Language Modeling with Gated Convolutional Networks](https://arxiv.org/abs/1612.08083) arXiv:1612.08083, 2016
+
 #### [End to End Deep Neural Network Frequency Demodulation of Speech Signals](https://arxiv.org/abs/1704.02046)  	arXiv:1704.02046, 2017
 
 #### [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) arXiv:1705.03122, 2017
@@ -34,6 +36,8 @@ Just a place to dump useful seq2seq resources I've come across
 #### [Why I Use raw_rnn Instead of dynamic_rnn in Tensorflow and So Should You](https://hanxiao.github.io/2017/08/16/Why-I-use-raw-rnn-Instead-of-dynamic-rnn-in-Tensorflow-So-Should-You-0/) 2017
 
 #### [The fall of RNN/LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0) 2018
+
+#### [When Recurrent Models Don't Need to be Recurrent](http://www.offconvex.org/2018/07/27/approximating-recurrent/) 2018
 
 ## Tutorials and code
 
