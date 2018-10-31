@@ -39,6 +39,8 @@ Just a place to dump useful seq2seq resources I've come across
 
 #### [When Recurrent Models Don't Need to be Recurrent](http://www.offconvex.org/2018/07/27/approximating-recurrent/) 2018
 
+#### [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) 2018
+
 ## Tutorials and code
 
 #### [Neural Machine Translation (seq2seq) Tutorial](https://www.tensorflow.org/tutorials/seq2seq) from tensorflow.org
