@@ -1,5 +1,5 @@
 # seq2seq
-Just a place to dump useful seq2seq resources I've come across
+Just a place to dump useful seq2seq resources I've come across. It's been my intuition that this structure could translate well into comms systems, where input lengths are quite variable. Additionally LSTMs are very expressive and could potentially incorporate many of the functional blocks of a receiver into a single deep learning model (sensing, classification, demodulation, etc.).
 
 ## Papers
 
