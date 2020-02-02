@@ -5,6 +5,13 @@ Nice things to read when learning about DL
 
 ## Blogs
 
+#### [ml cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
+Glossary of the basics. Neural nets, calculus, maths and python code
+
+#### [When Recurrent Models Don't Need to be Recurrent](http://www.offconvex.org/2018/07/27/approximating-recurrent/)
+Down with RNNs all hail feedforward models
+
 #### [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks)
 Thought it was a nice short and sweet intro to CNNs
 
